@@ -6,3 +6,4 @@ My Hobbies:
 What I want to learn:
 1. Programming languages(Rust, Web3)
 2. English
+3. French
