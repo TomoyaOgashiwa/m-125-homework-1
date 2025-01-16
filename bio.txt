@@ -10,3 +10,7 @@ Favorite Music: Rock Music/One Ok Rock
 Languages:
 - Spanish
 - Portuguese
+Skills:
+- Japanese
+- English
+- French
