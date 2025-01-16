@@ -6,3 +6,8 @@ Current City: Vancouver
 Favorite Food: Curry rice
 Favorite Movie: Mozu
 Favorite Music: Rock Music/One Ok Rock
+
+Skills:
+- Japanese
+- English
+- French
