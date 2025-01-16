@@ -1,0 +1,9 @@
+Education:
+1. [Bachelor]
+   Institution: Chuo University
+   Year: 2017
+   Major: Economic
+
+2. [Programming school]
+   Provider: G's Academy
+   Year: 2021
