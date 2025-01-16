@@ -1,0 +1,14 @@
+Professional Experience:
+1. [Job Title 1]
+   Company: Keywalker
+   Duration: 09/2021 - 02/2023
+   Key Responsibilities:
+   - FullStack Engineer
+   - Meet with clients
+
+2. [Job Title 2]
+   Company: METATEAM
+   Duration: 03/2023 - 10/2024
+   Key Responsibilities:
+   - Front-end Developer
+   - Tech lead
